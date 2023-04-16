@@ -257,7 +257,7 @@ body {
 .v2_93 {
   width: 40px;
   height: 40px;
-  background: url("/images/gambar.JPG");
+  background: url("./images/gambar.JPG");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -416,7 +416,7 @@ body {
 .v2_106 {
   width: 40px;
   height: 40px;
-  background: url("/images/gambar.JPG");
+  background: url("./images/gambar.JPG");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
